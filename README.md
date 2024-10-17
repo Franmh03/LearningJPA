@@ -1,0 +1,1 @@
+This project is a simple playground I use to learn JPA. I don't recommend exploring it in detail, as it's not a real project but just a practice environment. I’ve uploaded it online to track my progress
